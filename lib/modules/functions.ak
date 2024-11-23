@@ -1,4 +1,4 @@
-use aiken/builtin
+use aiken/primitive/bytearray
 
 /// Triples the value of `x`
 /// ```
